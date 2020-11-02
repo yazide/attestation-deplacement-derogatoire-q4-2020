@@ -65,18 +65,6 @@
   "browserslist": [
     "last 5 versions"
   ],
-  "react
-  ": {
-    "source": "dist",
-    "minifyHtml": {
-      "collapseWhitespace": false,
-      "removeComments": false
-    },
-    "puppeteerArgs": [
-      "--no-sandbox",
-      "--disable-setuid-sandbox"
-    ]
-  },
   "cache": {
     "globPatterns": [
       "**/*.{html,js,css,jpg,png,pdf,svg,eot,ttf,woff,woff2}"
